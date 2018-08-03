@@ -89,7 +89,10 @@ npm run server
 두 명이서 프론트엔드, 백엔드로 나뉘어 진행했으며, 총괄관리는 한 명이 맡았다.
 
 총괄관리 : [권기연](https://github.com/yeon0206)
+
 프론트엔드 : [권기연](https://github.com/yeon0206)
+
 백엔드 : [김동준](https://github.com/redant23)
+
 
 Special thanks to [Ken Huh](https://github.com/Ken123777)
