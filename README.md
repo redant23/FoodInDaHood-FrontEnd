@@ -5,7 +5,7 @@
 **우리동네 푸드트럭**은 서울지역 푸드트럭 API를 기반으로 자신의 위치 주변에 있는 푸드트럭은 물론 서울 내에 등록된 푸드트럭들의 위치와 운영상황을 확인할 수 있는 푸드트럭 플랫폼입니다.
 
 <img src="https://s3.ap-northeast-2.amazonaws.com/foodindahood/%E1%84%91%E1%85%AE%E1%84%83%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A5%E1%86%A81.png" width="30%" height="30%"></img>
-<img src="https://s3.ap-northeast-2.amazonaws.com/foodindahood/%E1%84%91%E1%85%AE%E1%84%83%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A5%E1%86%A82.png"></img>
+<img src="https://s3.ap-northeast-2.amazonaws.com/foodindahood/%E1%84%91%E1%85%AE%E1%84%83%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A5%E1%86%A82.png" width="30%" height="30%"></img>
 <img src="https://s3.ap-northeast-2.amazonaws.com/foodindahood/%E1%84%91%E1%85%AE%E1%84%83%E1%85%B3%E1%84%90%E1%85%B3%E1%84%85%E1%85%A5%E1%86%A83.png" width="30%" height="30%"></img>
 
 
